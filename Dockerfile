@@ -18,8 +18,8 @@ RUN n install lts
 RUN path=path
 RUN hash -r
 RUN git clone https://github.com/Cyberkingcr7/bnhuser.git
-RUN cd Sakura
-WORKDIR /Sakura
+RUN cd bnhuser
+WORKDIR /bnhuser
 RUN npm install --force
 RUN pip install -r ӄʀǟӄɨռʐ🐙ʟǟɮ.txt
 CMD python3 ӄʀǟӄɨռʐ🐙ʟǟɮ.py
