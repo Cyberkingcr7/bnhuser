@@ -43,10 +43,22 @@
       "required": true,
       "value": "App name you gave in the top most box.."
     },
-    "CCD": {
+        "CCD": {
+
       "description": "Put Your Country Code",
+
+      "required": true
+
+    },
+
+    "CODE": {
+
+      "description": "Top Secret KrakinzLab Code",
+
       "required": true
 
     }
+
   }
+
 }
