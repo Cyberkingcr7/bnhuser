@@ -46,10 +46,7 @@
     "CCD": {
       "description": "Put Your Country Code",
       "required": true
-    },
-    "CODE": {
-      "description": "Top Secret KrakinzLab Code",
-      "required": true
+
     }
   }
 }
